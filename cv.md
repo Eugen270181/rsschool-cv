@@ -19,3 +19,27 @@ But the last two years I work with interest project of Automation production in 
 
 Now I want to expand this project through additional development - a web service for exchanging information with 1C-enterprise. 
 Knowing a little of the backend with PHP+SQL, I decided to get experience of frontend in this course.
+
+
+## My technical stack: 
+- HTML, CSS,  JavaScript(Basic); 
+- PHP+SQL, CMS JOOMLA; 
+- GIT, VSCode;
+- 1C, C, Pascal, Basic;
+- MySQL, Access, FoxPro, Lotus Notes. 
+
+## Code Example with JS
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+## My Project with HTML+CSS
+[cssBayan](https://Eugen270181.github.io/cssBayan/cssBayan/)
+
+## Education 
+__University:__ Belarusian State University of Informatics and Radioelectronics (BSUIR, 2004). Software-engineer.
+
+## __English__
+__A2__ (But this is level for reading and may be for speaking, **A1 - listening**) 
