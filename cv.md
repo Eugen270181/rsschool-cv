@@ -1,5 +1,5 @@
 # ![Avatar](avatar.png)
-## Sadovnikov Eugen
+# Sadovnikov Eugen
 
 ## Contacts
 - Location: Lida, Belarus
@@ -8,3 +8,14 @@
 - e-mail: sadeugen@gmail.com
 - Discord: Eugen#4582
 - [Github](https://github.com/Eugen270181)
+  
+## About me
+Hello! I have been working as an "Anykey" for 18 years. I am a software-engineer by my education. But the actual experience in this field of work is not big. That is why, I had to do a many different kinds of work without going deep: web development on SMS joomla, 1C programmer, repair computers, office equipment, configure of local network.
+
+
+This was the specifics of my work two years ago - many areas of work, but not going far. 
+But the last two years I work with interest project of Automation production in mechanical engineering in the development environment 1С-enterprise.
+
+
+Now I want to expand this project through additional development - a web service for exchanging information with 1C-enterprise. 
+Knowing a little of the backend with PHP+SQL, I decided to get experience of frontend in this course.
