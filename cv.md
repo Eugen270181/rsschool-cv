@@ -42,4 +42,4 @@ function multiply(a, b){
 __University:__ Belarusian State University of Informatics and Radioelectronics (BSUIR, 2004). Software-engineer.
 
 ## __English__
-__A2__ (But this is level for reading and may be for speaking, **A1 - listening**) 
+__A2__ 
