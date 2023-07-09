@@ -10,10 +10,12 @@
 <body>
   <header class="header" id="top">
     <nav class="header_navigation">
-      <a class="nav_item" href="#contacts">Contacts </a>
-      <a class="nav_item" href="#skills">Skills </a>
-      <a class="nav_item" href="#portfolio">Portfolio </a>
-      <a class="nav_item" href="#education">Education</a>
+      <ul class="list_item">
+        <li class="item"><a class="nav_item" href="#contacts">Contacts </a></li>
+        <li class="item"><a class="nav_item" href="#skills">Skills </a></li>
+        <li class="item"><a class="nav_item" href="#portfolio">Portfolio </a></li>
+        <li class="item"><a class="nav_item" href="#education">Education</a></li>
+      </ul>
     </nav>
     <section class="header_logo wrapper">
       <img class="img" src="avatar.png" alt="Avatar.png">
@@ -42,20 +44,39 @@
       </ul>
     </section>
     <section class="main_my_expirience" id="skills">
-      
+      <h2 class="h2">Skills</h2>
+      <ul class="list_item">
+        <li class="item">JavaScript</li>
+        <li class="item">HTML</li>
+        <li class="item">CSS</li>
+        <li class="item">SQL</li>
+        <li class="item">1C</li>
+      </ul>
     </section>
     <section class="main_my_code">
-    
+      <h2 class="h2">Code</h2>
+      <pre><code>function multiply(a, b)</code> {
+           return a * b;
+         }
+      </pre>
     </section>
-    <section class="main_my_portfolio" id="portfolio"></section>
-    <section class="main_my_education_english" id="education"></section>
+    <section class="main_my_portfolio" id="portfolio">
+      <h2 class="h2">Portfolio</h2>
+      <a href="https://github.com/Eugen270181">[Github](https://github.com/Eugen270181)</a>
+    </section>
+    <section class="main_my_education_english" id="education">
+      <h2 class="h2">Education</h2>
+      <p class="p">Belarusian State University of Informatics and Radioelectronics (BSUIR, 2004). Software-engineer.</p>
+      <h2 class="h2">English</h2>
+      <p class="p">A2 (maybe)</p>
+    </section>
   </main>
   <footer class="footer">
-    <div class="footer_link_github">
-      <a >
-    </div>
-    <div class="footer_link_cource">
-    </div>
+    <a class="nav_footer" href="https://rs.school/js/">
+    <img src="rs_school_js.svg" alt="RS_JS_Stage0" height="26px">
+    </a>
+    <a class="nav_footer" href="https://github.com/Eugen270181">&copy; 2023 - My GitHub </a>
+    <a class="nav_footer" href="#top">&uArr;&uArr;</a>
   </footer>
 </body>
 </html>
