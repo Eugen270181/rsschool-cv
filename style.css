@@ -2,7 +2,7 @@
 * {
   margin:0;
   padding:0;
-  border: 1px solid red;
+//  border: 1px solid red;
 }
 
 *,*:before,*:after {
@@ -15,7 +15,7 @@
 a:focus,a:active{outline: none;}
 a, a:visited{text-decoration: none;}
 a:hover{text-decoration: none;}
-ul li{list-style: none;}
+//ul li{list-style: none;}
 
 .wrapper
 {
@@ -26,9 +26,23 @@ ul li{list-style: none;}
 .img {
 //  width: 100%;
 }
+
+.nav_item {
+  color:black;
+  font-size: 200%;
+}
+
+.h1 {
+  font-size: 300%;
+}
+
+
+
+
 /*******************body background**********/
 body {
   background: #9e8879;
+  color:#5b483a;
 }
 /********************************************/
 /**************** !HEADER! ******************/
@@ -39,10 +53,8 @@ body {
 }
 .header_logo{
   display: flex;
-  font-size: 400%;
   justify-content: space-between;
   align-items: center;
-  color:#5b483a
 }
 /**************** END !HEADER!***************/
 /**************** !MAIN! ******************/
