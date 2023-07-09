@@ -1,10 +1,43 @@
-body{
-    margin:0;
-    padding:0;
+/***normolize and common style and properties***/
+* {
+  margin:0;
+  padding:0;
+  //border: 1px solid red;
 }
-h1{
-color:chocolate;
+
+*,*:before,*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
-h3{
-    color:gray;
+
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+
+.wrapper
+{
+  max-width: 1200px;
+  margin:0 auto;
 }
+
+.img {
+    width: 100%;
+}
+/*******************body background**********/
+body {
+  background: #9e8879;
+}
+/********************************************/
+/**************** !HEADER! ******************/
+.header_navigation {
+  background: #5b483a;
+}
+/**************** END !HEADER!***************/
+/**************** !MAIN! ******************/
+/**************** END !MAIN!***************/
+/**************** !FOOTER! ******************/
+/**************** END !FOOTER!***************/
+
